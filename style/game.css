@@ -1,0 +1,113 @@
+
+
+
+
+
+.nav-title {
+
+    color: #0B0223;
+    font-size: 40px;
+    font-weight: 100px;
+}
+nav {
+    display:flex;
+    justify-content:space-between ;
+    align-items: center;
+    margin: 0 100px;
+}
+.nav-title{
+
+    color: pink;
+    font-size: 40px;
+    font-weight: 100px;
+}
+nav > ul {
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav a {
+    text-decoration: none;
+    color:rgba(39, 39, 39, 0.60);
+
+}
+.nav-title img {
+    width: 86.041px;
+    height: 40px;
+}
+.btn-primary{
+    border-radius: 48px;
+    background: #FF42A5 ;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 30px;
+
+}
+.skyblue-btn {
+
+    border-radius: 48px;
+    background: #4EC5F7 ;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 30px;
+}
+.gray-btn{
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    border: 0;
+    color: black;
+    padding: 10px 30px;
+
+}
+.some-space-inlogo{
+      
+    margin-left: 10px;
+}
+.banner-content{
+    width:70%;
+    height: 500px;
+
+    background-image: url('../images/Group\ 14.png');
+}
+.banner{
+    text-align: center;
+    display: flex;
+   
+}
+.banner-title {
+    margin-top: 100px;
+    color: #0B0223;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.banner-main-title{
+    margin-top: 0px;
+    color: #f948f9;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.banner img {
+    width:500px;
+    height: 500px;
+
+}
+.sapce-top{
+
+    margin-top: 50px;
+}
+.banner-content p{
+    margin-left: 300px;
+    text-align: left;
+}
